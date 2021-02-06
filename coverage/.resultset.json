@@ -49,25 +49,15 @@
         2,
         2,
         null,
+        1,
+        2,
+        1,
+        null,
         null
       ],
       "/Users/sarawong/Documents/CMU/20-21:S/67373/lab5-choretracker-starter/app/models/application_record.rb": [
         1,
         1,
-        null
-      ],
-      "/Users/sarawong/Documents/CMU/20-21:S/67373/lab5-choretracker-starter/app/models/task.rb": [
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        1,
-        null,
         null
       ],
       "/Users/sarawong/Documents/CMU/20-21:S/67373/lab5-choretracker-starter/app/models/child.rb": [
@@ -89,6 +79,20 @@
         1,
         0,
         null,
+        null,
+        null
+      ],
+      "/Users/sarawong/Documents/CMU/20-21:S/67373/lab5-choretracker-starter/app/models/task.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
         null,
         null
       ],
@@ -344,6 +348,6 @@
         0
       ]
     },
-    "timestamp": 1612592614
+    "timestamp": 1612592823
   }
 }
