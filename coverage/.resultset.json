@@ -34,16 +34,19 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/Users/sarawong/Documents/CMU/20-21:S/67373/lab5-choretracker-starter/app/models/task.rb": [
+      "/Users/sarawong/Documents/CMU/20-21:S/67373/lab5-choretracker-starter/app/models/chore.rb": [
         1,
         null,
         1,
         1,
         null,
-        1,
         1,
         null,
         3,
+        2,
+        2,
+        2,
+        2,
         2,
         null,
         null
@@ -53,7 +56,13 @@
         1,
         null
       ],
-      "/Users/sarawong/Documents/CMU/20-21:S/67373/lab5-choretracker-starter/app/models/chore.rb": [
+      "/Users/sarawong/Documents/CMU/20-21:S/67373/lab5-choretracker-starter/app/models/task.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
         1,
         null,
         1,
@@ -69,12 +78,17 @@
         null,
         1,
         null,
+        null,
+        1,
+        1,
+        null,
         1,
         0,
         null,
         null,
         1,
-        1,
+        0,
+        null,
         null,
         null
       ],
@@ -330,6 +344,6 @@
         0
       ]
     },
-    "timestamp": 1612586634
+    "timestamp": 1612592614
   }
 }
