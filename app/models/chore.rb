@@ -16,4 +16,5 @@ class Chore < ApplicationRecord
         return "Completed" if completed
         "Pending"
     end
+
 end
